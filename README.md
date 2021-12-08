@@ -1,2 +1,2 @@
 # respect-funkin
-The source code for respect funkin
+# NOW WE WAIT FOR THE CODE
