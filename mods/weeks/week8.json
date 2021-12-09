@@ -1,0 +1,30 @@
+{
+	"storyName": "on a riot!",
+	"hideFreeplay": false,
+	"weekBackground": "riot",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"on-a-riot",
+			"riot",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

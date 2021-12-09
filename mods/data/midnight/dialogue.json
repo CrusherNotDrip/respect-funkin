@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh shit its very dark"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "me and my friend gotta go soon one more song aight?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "midnighttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool i guess"
+		}
+	]
+}

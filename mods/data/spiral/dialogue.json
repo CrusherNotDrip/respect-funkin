@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "Ok small fry your up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brothertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bring it on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brothertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "also stop calling me that"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo lets step it up a little "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i wanna get a real battle before i leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jerbottalkpower",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THEN GET READY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "THIS IS GONNA BE GOOD!"
+		}
+	]
+}

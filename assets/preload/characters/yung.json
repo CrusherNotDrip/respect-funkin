@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				0,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ANGRY",
+			"indices": [],
+			"name": "ANGRY"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yung idle dance"
+		},
+		{
+			"offsets": [
+				-6,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yung up"
+		},
+		{
+			"offsets": [
+				0,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yung right"
+		},
+		{
+			"offsets": [
+				291,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yung left"
+		},
+		{
+			"offsets": [
+				0,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yung down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yungbull",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yung",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

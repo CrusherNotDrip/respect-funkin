@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
-	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
+	"storyName": "splashing",
+	"hideFreeplay": false,
 	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
 	"weekBefore": "week3",
-	"weekName": "Week 4",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"vibes",
+			"midnight",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"mid-way",
+			"midnight",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"midnight",
+			"midnight",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 4"
 }

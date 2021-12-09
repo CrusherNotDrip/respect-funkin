@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
-	],
-
-	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
-	],
+	"storyName": "boltz&circuits",
+	"hideFreeplay": false,
 	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
 	"weekBefore": "week5",
-	"weekName": "Week 6",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bot",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"metal",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"boltz",
+			"senpai-pixel",
+			[
+				255,
+				255,
+				75
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 6"
 }

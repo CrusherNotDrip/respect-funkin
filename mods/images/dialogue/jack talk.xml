@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jack talk.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jack talk angry0000" x="0" y="0" width="407" height="483"/>
+	<SubTexture name="jack talk angry0001" x="407" y="0" width="407" height="483"/>
+	<SubTexture name="jack talk monster0000" x="814" y="0" width="572" height="687" frameX="0" frameY="0" frameWidth="588" frameHeight="687"/>
+	<SubTexture name="jack talk monster0001" x="1386" y="0" width="588" height="687"/>
+	<SubTexture name="jack talk normal0000" x="0" y="687" width="407" height="483"/>
+	<SubTexture name="jack talk normal0001" x="407" y="687" width="407" height="483"/>
+</TextureAtlas>

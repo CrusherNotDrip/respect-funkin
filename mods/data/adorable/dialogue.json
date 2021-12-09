@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow that was awesome"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yup gotta agree on that one"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "another round?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea why not"
+		}
+	]
+}

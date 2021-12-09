@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "brother idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "brother left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "brother down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-241
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "brother right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "brother up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "naw",
+			"fps": 24,
+			"name": "brother naw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brother",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brother",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		225,
+		0
+	],
+	"camera_position": [
+		130,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

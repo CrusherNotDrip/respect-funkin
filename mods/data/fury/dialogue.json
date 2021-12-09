@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "GOD FUCKING DAMMIT UR SO ANNOYING"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "u started it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bro are u good"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I WILL KILL YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "try it bitch"
+		}
+	]
+}

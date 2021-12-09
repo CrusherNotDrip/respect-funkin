@@ -1,22 +1,52 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
-	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
+	"storyName": "sibling fight",
+	"hideFreeplay": false,
 	"weekBackground": "philly",
-
-	"storyName": "PICO",
 	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"joy",
+			"pico",
+			[
+				0,
+				155,
+				200
+			]
+		],
+		[
+			"annoying",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"spiral",
+			"brother",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"crazy",
+			"brother",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 3"
 }

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "yungtalkmad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "UGH JUST DIE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "can u let us go after?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalkmad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO WHY WOULD I DO THAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ive got money"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how much?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "10000"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "deal"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BUT IF I KILL YOU I GET UR MONEY TO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "uhhh ok"
+		}
+	]
+}

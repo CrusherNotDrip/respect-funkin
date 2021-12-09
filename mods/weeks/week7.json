@@ -1,0 +1,39 @@
+{
+	"storyName": "shoot out",
+	"hideFreeplay": false,
+	"weekBackground": "yung",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"showdown",
+			"yung",
+			[
+				46,
+				0,
+				0
+			]
+		],
+		[
+			"shoot-off",
+			"yung",
+			[
+				46,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

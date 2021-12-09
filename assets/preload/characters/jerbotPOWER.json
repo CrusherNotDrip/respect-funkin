@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jerbot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-189
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jerbot up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-189
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jerbot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-189
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jerbot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-189
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jerbot left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerbotPOWER",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jerbot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		35
+	],
+	"camera_position": [
+		-60,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

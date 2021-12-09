@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sistalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool next one i will beat you tho"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure"
+		}
+	]
+}
