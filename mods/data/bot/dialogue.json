@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so yo wanna play this game i just bought?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ehh sure ?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats it called?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhhhhh jerbots world????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "putting it in!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*the rock gif*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "AHHH WHY IS IT SUCKING US IN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "hehehe thats what she said"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jerbottalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh hello?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are u jerbot?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jerbottalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok how do we get outta here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jerbottalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhh rap battling me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welp lets start"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u know what to do"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "got you"
+		}
+	]
+}

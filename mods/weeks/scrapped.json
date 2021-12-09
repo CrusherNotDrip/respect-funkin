@@ -1,0 +1,48 @@
+{
+	"storyName": "NOt used :(",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"scrapped-bot",
+			"jerbot",
+			[
+				255,
+				255,
+				55
+			]
+		],
+		[
+			"scrapped-metal",
+			"jerbot",
+			[
+				255,
+				255,
+				55
+			]
+		],
+		[
+			"scrapped-boltz",
+			"jerbot",
+			[
+				255,
+				255,
+				55
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

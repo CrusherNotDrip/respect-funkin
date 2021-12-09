@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok i think i have a idea, before i take on axo wanna of the most popular singers here do u wanna pratice a little?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "Sure!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		},
+		{
+			"expression": "excited",
+			"text": "i wont go easy on yea tho",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Thats what they all say",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		}
+	]
+}

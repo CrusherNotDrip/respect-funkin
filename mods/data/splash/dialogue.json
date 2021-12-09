@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ima knock on the door hopefully he answers and says yes to my challenge"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "good luck!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*knocks*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axo talks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello! i heard u were really popular and a good singer so i wanted to challenge you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axo talks",
+			"boxState": "normal",
+			"expression": "agree",
+			"text": "sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "AHH YEA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "good luck"
+		}
+	]
+}

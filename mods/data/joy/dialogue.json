@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo so like u wanna see me beat up my siblings?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "oh shit",
+			"text": "WHAT NO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "in a singing battle dumbass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "oh shit",
+			"text": "oh...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "then sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sistalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u said u wanted to battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sistalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets go then"
+		}
+	]
+}

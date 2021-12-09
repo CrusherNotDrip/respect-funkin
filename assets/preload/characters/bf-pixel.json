@@ -1,15 +1,37 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				7,
-				0
+				-153,
+				-50
 			],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF IDLE"
+			"name": "rox idle"
+		},
+		{
+			"offsets": [
+				-110,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rox down"
+		},
+		{
+			"offsets": [
+				-180,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rox up"
 		},
 		{
 			"loop": false,
@@ -19,73 +41,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF LEFT NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF UP NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF RIGHT NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF DOWN NOTE",
+			"name": "rox miss left",
 			"indices": []
 		},
 		{
@@ -96,15 +52,59 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "BF DOWN MISS",
+			"name": "miss rox i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rox right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rox left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rox miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rox miss sus",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/pixel rox bf",
 	"position": [
 		0,
-		350
+		300
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,
@@ -118,5 +118,5 @@
 		-60
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 2.70000000000001
 }

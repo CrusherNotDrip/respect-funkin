@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "dasutuhsgsauidashdhsdkjashasdkhsakdhjsaka"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "is he having a stroke?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "hes acting like a baby ngl"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "lol someones mad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "SHUT UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "naw"
+		}
+	]
+}

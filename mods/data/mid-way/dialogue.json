@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn already noon huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "two more songs aight?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "midnighttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh sure i guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i really hope thos dont last to long"
+		}
+	]
+}

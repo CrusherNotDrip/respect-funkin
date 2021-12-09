@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey mr i was wondering if we could battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well i was going to play a game with my friend but sure we will do that afterwards i guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u wanna stay or go home?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "naw its cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok then i accept ur challenge"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thank u"
+		}
+	]
+}

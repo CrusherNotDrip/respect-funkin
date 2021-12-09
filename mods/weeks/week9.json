@@ -1,0 +1,30 @@
+{
+	"storyName": "legend",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"legend",
+			"dad",
+			[
+				255,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

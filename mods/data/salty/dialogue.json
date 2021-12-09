@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "u fucking cheated",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jacktalk"
+		},
+		{
+			"expression": "talk",
+			"text": "no im just clearly better with your sonic head lookin ass",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "what did u say",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jacktalk"
+		},
+		{
+			"expression": "talk",
+			"text": "want me to say it in spanish??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "cabeza sonica mirando el culo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "........",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jacktalk"
+		},
+		{
+			"expression": "oh shit",
+			"text": ".............",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		}
+	]
+}

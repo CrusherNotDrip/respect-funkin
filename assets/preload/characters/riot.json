@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "riot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "riot left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "riot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "riot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "riot up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/riot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "riot",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		5,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
