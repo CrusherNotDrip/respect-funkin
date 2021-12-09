@@ -28,7 +28,7 @@ class CreditsState extends MusicBeatState
 		['RespectRox', 'rox', 'Creator of Respect Funkin | Artist, Musics, Chartings.', 'https://gamebanana.com/members/1816465', 0xFFC30085],
 		['SleepyHead', 'sleepyhead', 'The creator of the Alien Man.', '', 0xFF389A58],
 		['To School', 'bera', 'Main Coder of Respect Funkin | Common Coding.', 'https://gamebanana.com/members/1799857', 0xFF00FFFF],
-		['CrusherNotDrip', 'crusher', '2nd Coder of Respect Funkin | Common Coding.', 'https://gamebanana.com/members/1979778', 0xFFFF0000],
+		['CrusherNotDrip', 'crusher', '2nd Coder of Respect Funkin | Source Code/Common Coding.', 'https://gamebanana.com/members/1979778', 0xFFFF0000],
 		['Hafimie', 'hafimie', '3rd Coder of Respect Funkin | Source Code Coding.', 'https://gamebanana.com/members/1984334', 0xFF0000FF],
 		['EggBirt', 'jack', 'Made the soundfonts, Pixel artist for Backgrounds.', 'https://gamebanana.com/members/1795258', 0xFFFFA500],
 		['Jerbot', 'yellowsome', 'Pixel Sprite Artist.', 'https://gamebanana.com/members/1823952', 0xFFFFFF00],
