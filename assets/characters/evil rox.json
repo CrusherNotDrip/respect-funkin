@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rox evil up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-360
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rox evil down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-143
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rox evil left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rox evil right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scary rox",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

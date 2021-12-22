@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
-                                                      <!--Im not the owner but Im assuming thats how github and package works lol-->
-	<app title="Respect Funkin'" file="RespectFunkin" packageName="com.crushermods.respectfunkin" package="com.crushermods.respectfunkin" main="Main" version="0.2.7" company="CrusherMods" />
+    <!--Im not the owner but Im assuming thats how github and package works lol-->
+	<!--Update: Ye it doesn't LOL its just for %appdata% and settings-->
+	<app title="Respect Funkin'" file="RespectFunkin" packageName="com.respectrox.respectfunkin" package="com.respectrox.respectfunkin" main="Main" version="0.2.7" company="RespectRox" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -40,14 +41,17 @@
 
 	<classpath name="source" />
 
-	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
-	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
+	<assets path="assets" rename="assets" exclude="*.ogg" if="web"/>
+	<assets path="assets" rename="assets" exclude="*.mp3"  unless="web"/>
 	
 	<!-- PSYCH ENGINE CUSTOMIZATION -->
 	<define name="MODS_ALLOWED" if="desktop" />
 	<define name="LUA_ALLOWED" if="windows" />
 	<define name="ACHIEVEMENTS_ALLOWED" />
 	<define name="VIDEOS_ALLOWED" if="web || windows" unless="32"/>
+
+	<!-- Respect Funkin crap-->
+<!--<define name="PUNCH_ROX_ALLOWED" /> -->
 
 	<!-- <define name="PRELOAD_ALL" /> -->
 	<define name="PRELOAD_ALL" unless="web" />

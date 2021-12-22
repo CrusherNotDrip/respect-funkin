@@ -2,72 +2,72 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				-110
+				350,
+				-180
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "legend idle"
+			"name": "alt idle"
 		},
 		{
 			"offsets": [
-				140,
-				117
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "legend left"
-		},
-		{
-			"offsets": [
-				20,
-				-160
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "legend down"
-		},
-		{
-			"offsets": [
-				254,
-				31
+				390,
+				100
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
 			"loop": false,
-			"name": "legend up"
+			"name": "alt up"
 		},
 		{
 			"offsets": [
-				10,
-				-60
+				350,
+				-370
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "alt down"
+		},
+		{
+			"offsets": [
+				340,
+				-173
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "alt left"
+		},
+		{
+			"offsets": [
+				280,
+				-180
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "legend right"
+			"name": "alt right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/legend",
+	"image": "characters/rox 2",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "mom",
+	"healthicon": "evil",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		0,
