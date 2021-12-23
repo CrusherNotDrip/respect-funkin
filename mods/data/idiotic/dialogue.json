@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "not bad",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "riot"
+		},
+		{
+			"expression": "talk",
+			"text": "that was pretty good",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "im ready for the next round",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "ok startin",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "riot"
+		},
+		{
+			"expression": "dababy",
+			"text": "lets goo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		}
+	]
+}

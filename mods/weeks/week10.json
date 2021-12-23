@@ -1,0 +1,57 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"smile",
+			"evil",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"nightmare",
+			"evil",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"void",
+			"evil",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"negative",
+			"evil",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

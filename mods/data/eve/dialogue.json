@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "midnighttalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you ready?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YES CHRISTMAS RAPPPP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so we battling to?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure!"
+		}
+	]
+}

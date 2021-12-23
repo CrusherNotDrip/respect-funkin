@@ -1,0 +1,30 @@
+{
+	"storyName": "the nightmare continues",
+	"hideFreeplay": false,
+	"weekBackground": "scary",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"negative",
+			"evil",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"weekName": "12"
+}

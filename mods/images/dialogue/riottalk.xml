@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="riottalk.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="riot talk0000" x="0" y="0" width="695" height="1027"/>
+	<SubTexture name="riot talk0001" x="695" y="0" width="695" height="1026" frameX="0" frameY="-1" frameWidth="695" frameHeight="1027"/>
+</TextureAtlas>

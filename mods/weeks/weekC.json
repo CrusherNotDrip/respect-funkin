@@ -1,0 +1,75 @@
+{
+	"storyName": "jollyful",
+	"hideFreeplay": false,
+	"weekBackground": "holidays",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"axe-snow",
+			"axo-holi",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"dumb-holi",
+			"spooky",
+			[
+				255,
+				0,
+				33
+			]
+		],
+		[
+			"joy-star",
+			"sisbro",
+			[
+				226,
+				255,
+				0
+			]
+		],
+		[
+			"eve",
+			"midnight",
+			[
+				35,
+				240,
+				135
+			]
+		],
+		[
+			"adored",
+			"sally",
+			[
+				255,
+				93,
+				173
+			]
+		],
+		[
+			"cosmo-carol",
+			"gf",
+			[
+				0,
+				255,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

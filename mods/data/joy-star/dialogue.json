@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey bro and sis"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brothertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo nerd"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sistalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you guys wanna rap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sistalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure but like what about 2v1?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brothertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OOO thats sounds cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bring it!"
+		}
+	]
+}

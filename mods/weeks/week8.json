@@ -1,15 +1,14 @@
 {
-	"storyName": "on a riot!",
+	"storyName": "on a riot",
 	"hideFreeplay": false,
 	"weekBackground": "riot",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": true,
 	"weekCharacters": [
 		"",
 		"",
@@ -22,9 +21,28 @@
 			[
 				0,
 				0,
-				100
+				40
+			]
+		],
+		[
+			"idiotic",
+			"riot",
+			[
+				0,
+				0,
+				40
+			]
+		],
+		[
+			"stream",
+			"riot",
+			[
+				0,
+				0,
+				40
 			]
 		]
 	],
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "10"
 }

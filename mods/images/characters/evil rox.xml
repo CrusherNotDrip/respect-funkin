@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil rox.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animation0000" x="0" y="0" width="848" height="310" frameX="0" frameY="-275" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0001" x="0" y="0" width="848" height="310" frameX="0" frameY="-275" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0002" x="0" y="0" width="848" height="310" frameX="0" frameY="-275" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0003" x="0" y="0" width="848" height="310" frameX="0" frameY="-275" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0004" x="848" y="0" width="848" height="354" frameX="0" frameY="-231" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0005" x="848" y="0" width="848" height="354" frameX="0" frameY="-231" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0006" x="0" y="354" width="848" height="584" frameX="0" frameY="-1" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0007" x="0" y="354" width="848" height="584" frameX="0" frameY="-1" frameWidth="848" frameHeight="585"/>
+	<SubTexture name="animation0008" x="848" y="354" width="848" height="585"/>
+	<SubTexture name="animation0009" x="848" y="354" width="848" height="585"/>
+	<SubTexture name="animation0010" x="848" y="354" width="848" height="585"/>
+	<SubTexture name="animation0011" x="848" y="354" width="848" height="585"/>
+	<SubTexture name="animation0012" x="848" y="354" width="848" height="585"/>
+	<SubTexture name="idle alt0000" x="0" y="939" width="848" height="106"/>
+</TextureAtlas>

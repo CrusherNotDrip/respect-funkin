@@ -1,89 +1,102 @@
 {
+	"dialogue_pos": "right",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "right",
 	"scale": 1.25,
-	"image": "roxtalk",
 	"animations": [
 		{
+			"anim": "talk",
+			"loop_offsets": [
+				-21,
+				15
+			],
 			"idle_offsets": [
 				-13,
 				-9
 			],
-			"loop_offsets": [
-				-22,
-				14
-			],
-			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "talk normal"
+			"loop_name": "talk normal",
+			"idle_name": "talk normal"
 		},
 		{
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"anim": "excited",
 			"loop_offsets": [
 				5,
 				0
 			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "talk excited"
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "talk excited",
+			"idle_name": "talk excited"
 		},
 		{
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
 			"anim": "pissed",
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "talk scared"
+			"loop_name": "talk scared",
+			"idle_name": "talk scared"
 		},
 		{
-			"idle_offsets": [
-				3,
-				-4
-			],
-			"anim": "shocked",
 			"loop_offsets": [
 				-3,
 				1
 			],
-			"idle_name": "talk rude",
-			"loop_name": "talk rude"
+			"anim": "shocked",
+			"idle_offsets": [
+				3,
+				-4
+			],
+			"loop_name": "talk rude",
+			"idle_name": "talk rude"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "mad?",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"loop_name": "talk get a load of this guy",
-			"idle_name": "talk get a load of this guy"
-		},
-		{
-			"loop_name": "talk rude",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"idle_name": "talk rude",
-			"anim": "rude",
 			"loop_offsets": [
 				0,
 				0
+			],
+			"idle_name": "talk get a load of this guy",
+			"loop_name": "talk get a load of this guy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "rude",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk rude",
+			"idle_name": "talk rude"
+		},
+		{
+			"loop_name": "dababy talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dababy talk",
+			"anim": "dababy",
+			"loop_offsets": [
+				0,
+				1
 			]
 		}
-	]
+	],
+	"image": "roxtalk"
 }

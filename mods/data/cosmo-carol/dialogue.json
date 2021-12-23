@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey before we go inside me and my friend want to do some rapping first",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "yea!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im taking off my hat cause the cold breeze feels nice"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"expression": "talk",
+			"text": "fine with me",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axo talks"
+		},
+		{
+			"expression": "talk",
+			"text": "you ready to start?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "yup",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		},
+		{
+			"expression": "talk",
+			"text": "ok lets do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		}
+	]
+}

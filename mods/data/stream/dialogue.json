@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "riot",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok last one and you win i guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok "
+		}
+	]
+}
