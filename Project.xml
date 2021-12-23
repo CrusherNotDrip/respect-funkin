@@ -53,6 +53,8 @@
 	<!-- Respect Funkin crap-->
 <!--<define name="PUNCH_ROX_ALLOWED" /> -->
 
+	<define name="CHECK_FOR_UPDATES" if="desktop"/>
+
 	<!-- <define name="PRELOAD_ALL" /> -->
 	<define name="PRELOAD_ALL" unless="web" />
 	<define name="NO_PRELOAD_ALL" unless="PRELOAD_ALL"/>
