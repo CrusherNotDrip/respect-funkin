@@ -1,0 +1,30 @@
+{
+	"storyName": "its gonna be fine",
+	"hideFreeplay": false,
+	"weekBackground": "its okay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"okay",
+			"gf",
+			[
+				0,
+				255,
+				155
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "its okay"
+}

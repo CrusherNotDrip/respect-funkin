@@ -2,13 +2,18 @@
 	"storyName": "jollyful",
 	"hideFreeplay": false,
 	"weekBackground": "holidays",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"axe-snow",
@@ -63,13 +68,17 @@
 				255,
 				115
 			]
+		],
+		[
+			"ruined",
+			"chris",
+			[
+				0,
+				173,
+				20
+			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"weekName": "Custom Week"
 }

@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow drawing myself came out great"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "same with mine "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "draws stickman"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "paint ms 12/ 23 2021{ 8:10PM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what????"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"berry",
+			"stick",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stick",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "oh shit wtf its a stickmen",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
