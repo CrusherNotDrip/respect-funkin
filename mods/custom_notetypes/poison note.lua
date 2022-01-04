@@ -21,7 +21,7 @@ end
 local healthDrain = 0;
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'poison note' then
-		playSound('poisonhit', 0.7);
+		-- old playsound i removed it (bera)
 		-- bf anim
 		characterPlayAnim('boyfriend', 'hurt', true);
 		setProperty('boyfriend.specialAnim', true);

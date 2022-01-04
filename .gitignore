@@ -1,5 +1,6 @@
 export/
-discord-assets/
 .vscode/
 APIStuff.hx
-remove me from the credits im useless
+art/build_x32-officialrelease.bat
+art/build_x64-officialrelease.bat
+art/test_x64-debug-officialrelease.bat

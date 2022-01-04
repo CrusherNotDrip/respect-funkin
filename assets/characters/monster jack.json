@@ -68,13 +68,13 @@
 		},
 		{
 			"offsets": [
-				0,
+				360,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "attack",
-			"loop": false,
+			"indices": [],
 			"name": "throw"
 		}
 	],

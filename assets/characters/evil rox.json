@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-180
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				50,
-				300
+				0,
+				-180
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "rox evil up",
-			"indices": []
+			"indices": [],
+			"name": "up"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				270,
-				-360
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "rox evil down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				270,
-				-143
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "rox evil left",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				180,
-				-60
+				-380
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "rox evil right",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/scary rox",
 	"position": [
 		0,
-		0
+		-270
 	],
 	"healthicon": "evil",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-410,
+		420
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.3
 }

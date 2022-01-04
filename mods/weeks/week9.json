@@ -1,5 +1,5 @@
 {
-	"storyName": "Your New Week",
+	"storyName": "bad days",
 	"hideFreeplay": false,
 	"weekBackground": "legend",
 	"freeplayColor": [
@@ -9,11 +9,6 @@
 	],
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
 			"bad-day",
@@ -32,8 +27,22 @@
 				0,
 				253
 			]
+		],
+		[
+			"strike",
+			"legend",
+			[
+				146,
+				0,
+				253
+			]
 		]
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "Custom Week"
 }
