@@ -1,3 +1,47 @@
+# Respect Funkin
+Naw Bro Respect the funk [Download Here](https://gamebanana.com/mods/336932)
+
+## Installation:
+You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
+
+Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
+
+To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit ` on a Command prompt/PowerShell
+
+## Credits:
+* [RespectRox](https://gamebanana.com/members/1816465) - Creator of Respect Funkin | Artist, Musics, Chartings
+* SleepyHead - The creator of the Alien Man
+* [To school](https://gamebanana.com/members/1799857) - Main Coder of Respect Funkin | Common Coding
+* [CrusherNotDrip](https://twitter.com/CrusherNotDrip) - 2nd Coder of Respect Funkin | Source Code/Common Coding
+* [Hafimie](https://gamebanana.com/members/1984334) - 3rd Coder of Respect Funkin | Source Code Coding
+* [EggBirt](https://gamebanana.com/members/1795258) - Made the soundfonts, Pixel artist for Backgrounds
+* [Jerbot](https://gamebanana.com/members/1823952) - Pixel Sprite Artist
+* [LegendaryGameR](https://gamebanana.com/members/1932216) - Trailer Maker/Old Musician
+* [AidenAnimates](https://gamebanana.com/members/1932216) - Menu Music Maker
+
+## Special Thanks:
+* [Idioticriot](https://twitch.tv/idioticriot) - Livestreaming our mod!
+* [CoreDev](https://twitter.com/itz_core5570r) - Performance Stats Code
+* [Gui iago](https://github.com/Gui-iago) - Judge Counter Code
+_____________________________________
+
+## Weeks:
+* Tutorial - Cosmic Rapping
+* Week 1 - Axo Attack!
+* Week 2 - A Dumbass
+* Week 3 - Sibling Fight
+* Week 4 - Splashing
+* Week 5 - Melody
+* Week 6 - Boltz & Circuits
+* Week ? - ...
+* Week 7 - Shoot out
+* Week 8 - On a Riot
+* Week 9 - Bad Days
+* Week C - Jollyful
+* Week Stickman - Oh shit wtf its a stickman
+* Week M - Eletro Fun 
+* Week E - Extras (None of these are canon)
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
