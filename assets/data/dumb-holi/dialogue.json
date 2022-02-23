@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "YOU!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "CHRISTMAS REMATCH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wh-wha-ummmmm ok?????"
+		}
+	]
+}

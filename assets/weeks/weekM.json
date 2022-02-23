@@ -1,0 +1,48 @@
+{
+	"storyName": "eletro fun!",
+	"hideFreeplay": true,
+	"weekBackground": "meeny",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekJ",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"meter",
+			"meeny",
+			[
+				0,
+				193,
+				255
+			]
+		],
+		[
+			"screwed",
+			"meeny",
+			[
+				0,
+				193,
+				255
+			]
+		],
+		[
+			"pinged",
+			"meeny",
+			[
+				0,
+				193,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

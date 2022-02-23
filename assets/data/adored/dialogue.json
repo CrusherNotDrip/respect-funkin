@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok im ready!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets do this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "axo talks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey by the way do you wanna stay over for dinner?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea sure"
+		}
+	]
+}

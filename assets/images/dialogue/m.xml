@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="m.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="0" y="0" width="387" height="414" frameX="0" frameY="-2" frameWidth="387" frameHeight="416"/>
+	<SubTexture name="talk0001" x="387" y="0" width="387" height="416"/>
+</TextureAtlas>

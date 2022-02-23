@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "axo talk normal0",
+			"idle_name": "axo talk normal0000"
+		},
+		{
+			"loop_name": "talk agree0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk agree0000",
+			"anim": "agree",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "axo talks"
+}

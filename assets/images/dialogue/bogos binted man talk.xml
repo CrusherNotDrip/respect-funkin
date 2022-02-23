@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bogos binted man talk.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bogos binted no talk bruh 0000" x="1534" y="0" width="464" height="349"/>
+	<SubTexture name="bogos binted no talk bruh 0001" x="0" y="0" width="464" height="349"/>
+	<SubTexture name="bogos binted no talk excited copy0000" x="464" y="349" width="464" height="349"/>
+	<SubTexture name="bogos binted no talk excited copy0001" x="464" y="349" width="464" height="349"/>
+	<SubTexture name="bogos binted no talk normal copy0000" x="464" y="0" width="606" height="349"/>
+	<SubTexture name="bogos binted no talk normal copy0001" x="1534" y="349" width="464" height="349" frameX="-142" frameY="0" frameWidth="606" frameHeight="349"/>
+	<SubTexture name="bogos binted talk bruh 0000" x="1070" y="0" width="464" height="349"/>
+	<SubTexture name="bogos binted talk bruh 0001" x="1534" y="0" width="464" height="349"/>
+	<SubTexture name="bogos binted talk excited0000" x="0" y="349" width="464" height="349"/>
+	<SubTexture name="bogos binted talk excited0001" x="464" y="349" width="464" height="349"/>
+	<SubTexture name="bogos binted talk normal0000" x="928" y="349" width="606" height="349"/>
+	<SubTexture name="bogos binted talk normal0001" x="1534" y="349" width="464" height="349" frameX="-142" frameY="0" frameWidth="606" frameHeight="349"/>
+	<SubTexture name="bogos binted talk oh shit0000" x="0" y="698" width="464" height="349"/>
+	<SubTexture name="bogos binted talk oh shit0001" x="0" y="698" width="464" height="349"/>
+</TextureAtlas>

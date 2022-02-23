@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jerbot.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jerbot down0000" x="0" y="0" width="498" height="530" frameX="0" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0001" x="0" y="0" width="498" height="530" frameX="0" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0002" x="498" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0003" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0004" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0005" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0006" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0007" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0008" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0009" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0010" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot down0011" x="998" y="0" width="500" height="530" frameX="-6" frameY="0" frameWidth="506" frameHeight="530"/>
+	<SubTexture name="jerbot idle0000" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0001" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0002" x="1959" y="0" width="465" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0003" x="1959" y="0" width="465" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0004" x="2424" y="0" width="481" height="525"/>
+	<SubTexture name="jerbot idle0005" x="2424" y="0" width="481" height="525"/>
+	<SubTexture name="jerbot idle0006" x="2905" y="0" width="465" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0007" x="2905" y="0" width="465" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0008" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0009" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0010" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0011" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0012" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot idle0013" x="1498" y="0" width="461" height="525" frameX="0" frameY="0" frameWidth="481" frameHeight="525"/>
+	<SubTexture name="jerbot left0000" x="3370" y="0" width="476" height="512" frameX="-6" frameY="0" frameWidth="483" frameHeight="512"/>
+	<SubTexture name="jerbot left0001" x="3370" y="0" width="476" height="512" frameX="-6" frameY="0" frameWidth="483" frameHeight="512"/>
+	<SubTexture name="jerbot left0002" x="0" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0003" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0004" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0005" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0006" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0007" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0008" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0009" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0010" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot left0011" x="483" y="530" width="483" height="512"/>
+	<SubTexture name="jerbot right0000" x="966" y="530" width="498" height="533" frameX="0" frameY="0" frameWidth="510" frameHeight="533"/>
+	<SubTexture name="jerbot right0001" x="966" y="530" width="498" height="533" frameX="0" frameY="0" frameWidth="510" frameHeight="533"/>
+	<SubTexture name="jerbot right0002" x="1464" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0003" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0004" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0005" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0006" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0007" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0008" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0009" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0010" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot right0011" x="1974" y="530" width="510" height="533"/>
+	<SubTexture name="jerbot up0000" x="2484" y="530" width="456" height="520" frameX="0" frameY="-8" frameWidth="456" frameHeight="534"/>
+	<SubTexture name="jerbot up0001" x="2484" y="530" width="456" height="520" frameX="0" frameY="-8" frameWidth="456" frameHeight="534"/>
+	<SubTexture name="jerbot up0002" x="2940" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0003" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0004" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0005" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0006" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0007" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0008" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0009" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0010" x="3396" y="530" width="456" height="534"/>
+	<SubTexture name="jerbot up0011" x="3396" y="530" width="456" height="534"/>
+</TextureAtlas>

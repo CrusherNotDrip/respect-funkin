@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-110
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "legend idle"
+			"fps": 24,
+			"name": "legend idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				117
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "legend left"
+			"fps": 24,
+			"name": "legend left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				-160
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "legend down"
+			"fps": 24,
+			"name": "legend down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				254,
 				31
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "legend up"
+			"fps": 24,
+			"name": "legend up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "legend right"
+			"fps": 24,
+			"name": "legend right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/legend",
+	"image": "characters/Legend",
 	"position": [
 		-150,
 		0

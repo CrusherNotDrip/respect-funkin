@@ -1,0 +1,85 @@
+{
+	"storyName": "EXTRAS(none of these are canon)",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "extra",
+	"weekBefore": "weekM",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"no-villans",
+			"spooky",
+			[
+				220,
+				93,
+				15
+			]
+		],
+		[
+			"axo",
+			"dad",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"missingbot",
+			"missingbot",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"sunvoid",
+			"evil",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"highlyte",
+			"sally",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"error",
+			"stick",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"blammed",
+			"brother",
+			[
+				186,
+				173,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

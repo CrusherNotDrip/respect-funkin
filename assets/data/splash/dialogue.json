@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "welp lets do this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "good luck!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		},
+		{
+			"expression": "talk",
+			"text": "*knocks*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "hello?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axo talks"
+		},
+		{
+			"expression": "talk",
+			"text": "hello i wanted to rap battle you for fun",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "please",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "agree",
+			"text": "sure!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axo talks"
+		},
+		{
+			"expression": "excited",
+			"text": "AHH YEA!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "good luck",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		}
+	]
+}

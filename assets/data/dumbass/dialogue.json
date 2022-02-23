@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so like we going to nevada??? or?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh more like a theme park"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "oh shit",
+			"text": "oh shit... is that my ex?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "rude",
+			"text": "huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo wtf is up with ur mic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "rude",
+			"text": "rude"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wanna rap or???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuking carnival lookin mic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jacktalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh and sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol dont say anything when i beat u"
+		}
+	]
+}

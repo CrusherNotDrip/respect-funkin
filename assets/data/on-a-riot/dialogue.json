@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "riot",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so rox u ready to begin the fnf tourny?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "indeed i am"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "riot",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well lets start"
+		}
+	]
+}

@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-189
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "jerbot idle"
+			"fps": 24,
+			"name": "jerbot idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-189
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "jerbot up"
+			"fps": 24,
+			"name": "jerbot up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-189
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "jerbot down"
+			"fps": 24,
+			"name": "jerbot down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-189
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "jerbot right"
+			"fps": 24,
+			"name": "jerbot right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-189
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "jerbot left"
+			"fps": 24,
+			"name": "jerbot left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/jerbot",
+	"image": "characters/Jerbot",
 	"position": [
 		0,
 		0

@@ -1,0 +1,48 @@
+{
+	"storyName": "on a riot",
+	"hideFreeplay": true,
+	"weekBackground": "riot",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"on-a-riot",
+			"riot",
+			[
+				0,
+				0,
+				40
+			]
+		],
+		[
+			"idiotic",
+			"riot",
+			[
+				0,
+				0,
+				40
+			]
+		],
+		[
+			"stream",
+			"riot",
+			[
+				0,
+				0,
+				40
+			]
+		]
+	],
+	"weekName": "10"
+}

@@ -90,14 +90,21 @@ class VisualsUISubState extends BaseOptionsMenu
 		addOption(option);
 		
 		#if !mobile
-		var option:Option = new Option('FPS Counter',
-			'If unchecked, hides FPS Counter.',
-			'showFPS',
+		var option:Option = new Option('Performance Stats',
+			'If unchecked, hides Performance Stats.',
+			'showPerformance',
 			'bool',
 			true);
 		addOption(option);
 		option.onChange = onChangeFPSCounter;
 		#end
+
+		var option:Option = new Option('Judge Counter',
+			'If unchecked, hides Judge Counter.',
+			'judgCounter',
+			'bool',
+			true);
+		addOption(option);
 
 		super();
 	}
@@ -105,8 +112,8 @@ class VisualsUISubState extends BaseOptionsMenu
 	#if !mobile
 	function onChangeFPSCounter()
 	{
-		if(Main.fpsVar != null)
-			Main.fpsVar.visible = ClientPrefs.showFPS;
+		if(Main.fps_mem != null)
+			Main.fps_mem.visible = ClientPrefs.showPerformance;
 	}
 	#end
 }

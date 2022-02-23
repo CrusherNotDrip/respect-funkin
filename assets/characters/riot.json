@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				60,
 				50
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "riot idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "riot idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				64,
 				47
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "riot left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "riot left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-20,
 				60
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "riot right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "riot right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				20,
 				28
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "riot down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "riot down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				14,
 				51
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "riot up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "riot up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/riot",
+	"image": "characters/Riot",
 	"position": [
 		0,
 		0

@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sallytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok last one i then i gotta go eat dinner with axo and midnight"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well ok lets do this"
+		}
+	]
+}

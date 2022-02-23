@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok i think i have a idea, before i take axo.",
+			"boxState": "normal",
+			"portrait": "roxtalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "what?",
+			"boxState": "normal",
+			"portrait": "bogosbintedmantalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "battle?",
+			"boxState": "normal",
+			"portrait": "bogosbintedmantalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "yea",
+			"boxState": "normal",
+			"portrait": "roxtalk",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets do this"
+		}
+	]
+}

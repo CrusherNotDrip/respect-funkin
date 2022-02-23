@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riot.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="riot down0000" x="0" y="0" width="653" height="987" frameX="-8" frameY="-3" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0001" x="0" y="0" width="653" height="987" frameX="-8" frameY="-3" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0002" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0003" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0004" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0005" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0006" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0007" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0008" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0009" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0010" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot down0011" x="653" y="0" width="645" height="990" frameX="0" frameY="0" frameWidth="661" frameHeight="990"/>
+	<SubTexture name="riot idle0000" x="1298" y="0" width="760" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0001" x="2058" y="0" width="775" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0002" x="2833" y="0" width="761" height="1037" frameX="-33" frameY="-7" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0003" x="0" y="1037" width="767" height="1037" frameX="-33" frameY="-7" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0004" x="767" y="1037" width="695" height="1044" frameX="0" frameY="0" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0005" x="767" y="1037" width="695" height="1044" frameX="0" frameY="0" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0006" x="1462" y="1037" width="647" height="1039" frameX="-24" frameY="-5" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0007" x="1462" y="1037" width="647" height="1039" frameX="-24" frameY="-5" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0008" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0009" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0010" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0011" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0012" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot idle0013" x="2109" y="1037" width="615" height="1033" frameX="-40" frameY="-11" frameWidth="815" frameHeight="1044"/>
+	<SubTexture name="riot left0000" x="2724" y="1037" width="628" height="1029" frameX="-11" frameY="-2" frameWidth="649" frameHeight="1031"/>
+	<SubTexture name="riot left0001" x="2724" y="1037" width="628" height="1029" frameX="-11" frameY="-2" frameWidth="649" frameHeight="1031"/>
+	<SubTexture name="riot left0002" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0003" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0004" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0005" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0006" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0007" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0008" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0009" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0010" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0011" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0012" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot left0013" x="3352" y="1037" width="649" height="1031"/>
+	<SubTexture name="riot right0000" x="0" y="2081" width="673" height="1031"/>
+	<SubTexture name="riot right0001" x="673" y="2081" width="657" height="1031" frameX="0" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0002" x="1330" y="2081" width="620" height="1031" frameX="-23" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0003" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0004" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0005" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0006" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0007" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0008" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0009" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0010" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot right0011" x="1950" y="2081" width="617" height="1031" frameX="-9" frameY="0" frameWidth="673" frameHeight="1031"/>
+	<SubTexture name="riot up0000" x="2567" y="2081" width="615" height="1016" frameX="0" frameY="0" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0001" x="2567" y="2081" width="615" height="1016" frameX="0" frameY="0" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0002" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0003" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0004" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0005" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0006" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0007" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0008" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0009" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0010" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+	<SubTexture name="riot up0011" x="3182" y="2081" width="615" height="1024" frameX="0" frameY="-1" frameWidth="615" frameHeight="1025"/>
+</TextureAtlas>

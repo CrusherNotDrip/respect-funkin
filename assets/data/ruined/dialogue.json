@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets go ins-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "christ",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YO PUT UR HANDS UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "christ",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IM HERE TO RUIN YOUR CHRISTMAS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "yo who let there kid out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "what are you gonna ruin? your christmas toys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "christ",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "IM BEING SERIOUS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "mad?",
+			"text": "sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i tell you this u can \"ruin\" christmas if u can beat me in a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you lose u can take u and ur toy gun back to your mommy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "christ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine by me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "christ",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "WAIT DID U CALL THIS A TOY GUN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaand start"
+		}
+	]
+}

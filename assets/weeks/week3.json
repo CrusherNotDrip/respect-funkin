@@ -1,6 +1,6 @@
 {
 	"storyName": "sibling fight",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "philly",
 	"weekBefore": "week2",
 	"startUnlocked": true,
@@ -47,6 +47,6 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "Week 3"
 }

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "yo you good????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lemme cheer you up maybe???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "LIKE THAT WILL WORK"
+		}
+	]
+}

@@ -29,7 +29,7 @@ class OutdatedState extends MusicBeatState
 			please update to " + TitleState.updateVersion + "!\n
 			\n
 			Thank you for playing this awesome cool mod\n
-			Please Like the mod :)",
+			Please Like the mod on the Gamebanana :)",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);

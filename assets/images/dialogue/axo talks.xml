@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="axo talks.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="axo no talk normal0000" x="578" y="0" width="578" height="766"/>
+	<SubTexture name="axo no talk normal0001" x="578" y="0" width="578" height="766"/>
+	<SubTexture name="axo talk normal0000" x="0" y="0" width="578" height="766"/>
+	<SubTexture name="axo talk normal0001" x="578" y="0" width="578" height="766"/>
+	<SubTexture name="no talk agree0000" x="0" y="767" width="581" height="767"/>
+	<SubTexture name="no talk agree0001" x="0" y="767" width="581" height="767"/>
+	<SubTexture name="talk agree0000" x="1156" y="0" width="581" height="767"/>
+	<SubTexture name="talk agree0001" x="0" y="767" width="581" height="767"/>
+</TextureAtlas>

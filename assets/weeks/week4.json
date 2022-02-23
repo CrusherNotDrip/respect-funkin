@@ -1,6 +1,6 @@
 {
 	"storyName": "splashing",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "limo",
 	"weekBefore": "week3",
 	"startUnlocked": true,
@@ -38,6 +38,6 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "Week 4"
 }

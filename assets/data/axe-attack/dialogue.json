@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Yo how about u step it up a little?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "talk",
+			"text": "If thats what you want. if u lose dont say i didnt warn u",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "axo talks"
+		},
+		{
+			"expression": "talk",
+			"text": "Bring it",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "roxtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "shits gonna get crazy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk"
+		}
+	]
+}

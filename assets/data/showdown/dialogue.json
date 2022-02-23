@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn last week was insane huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea we got sucked into a video game"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to be honest it kinda sounds like week 6 in fnf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "true"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you stop there"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "HUH?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ive been assigned to kill you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "WHAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "BY WHO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "some idoit with sonic the hedgehog hair"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "HE DID THIS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "all i did was roast him about hes hair is all"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats petty"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he offered me 10000 which is alot so ima just kill you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yungtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but for some reason he said i have to rap battle you?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "rude",
+			"text": "BRING IT ON"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I WILL NOT DIE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HIT IT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "got you"
+		}
+	]
+}

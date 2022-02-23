@@ -37,12 +37,13 @@ class CreditsState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("In the Credits Menu", null);
 		#end
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		add(bg);
-
+		bg.screenCenter();
+		
 		grpOptions = new FlxTypedGroup<Alphabet>();
 		add(grpOptions);
 
@@ -79,11 +80,16 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			#if html5
+			['Respect Funkin'],
+			['Play the mod here!', 'respectfunkin', 'Respect Funkin', 'https://gamebanana.com/mods/336932', 'FF68CA'],
+			[''],
+			#end
 			["Respect Funkin' Mod Team"],
 			['RespectRox', 'rox', 'Creator of Respect Funkin | Artist, Musics, Chartings.', 'https://gamebanana.com/members/1816465', 'C30085'],
 			['SleepyHead', 'sleepyhead', 'The creator of the Alien Man.', '', '389A58'],
 			['To School', 'bera', 'Main Coder of Respect Funkin | Common Coding.', 'https://gamebanana.com/members/1799857', '00FFFF'],
-			['CrusherMods', 'crusher', '2nd Coder of Respect Funkin | Source Code/Common Coding.', 'https://gamebanana.com/members/1979778', 'FF0000'],
+			['CrusherNotDrip', 'crusher', '2nd Coder of Respect Funkin | Source Code/Common Coding.', 'https://twitter.com/CrusherNotDrip', '01AFFF'],
 			['Hafimie', 'hafimie', '3rd Coder of Respect Funkin | Source Code Coding.', 'https://gamebanana.com/members/1984334', '0000FF'],
 			['EggBirt', 'jack', 'Made the soundfonts, Pixel artist for Backgrounds.', 'https://gamebanana.com/members/1795258', 'FFA500'],
 			['Jerbot', 'yellowsome', 'Pixel Sprite Artist.', 'https://gamebanana.com/members/1823952', '0xFFFFFF00'],
@@ -91,7 +97,9 @@ class CreditsState extends MusicBeatState
 			['AidenAnimates', 'aiden', 'Menu Music Maker.', 'https://gamebanana.com/members/1932216', 'FFFFFF'],
 			[''],
 			['Special Thanks'],
-			['Idioticriot', 'riot', 'Livestreaming our mod!', 'https://twitch.tv/idioticriot', '00008B'],
+			['Idioticriot',         'riot',             'Livestreaming our mod!',                               'https://twitch.tv/idioticriot',        '00008B'],
+			['CoreDev',             'coredev',          'Performance Stats Code',                               'https://twitter.com/itz_core5570r',    '0066FE'],
+			['Gui iago',            'gui',				'Judge Counter Code',  				                    'https://github.com/Gui-iago',		    '26B65B'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
@@ -104,6 +112,8 @@ class CreditsState extends MusicBeatState
 			['iFlicky',				'iflicky',			'Delay/Combo Menu Song Composer\nand Dialogue Sounds',	'https://twitter.com/flicky_i',			'C549DB'],
 			['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',							'https://twitter.com/polybiusproxy',	'FFEAA6'],
 			['Keoiki',				'keoiki',			'Note Splash Animations',								'https://twitter.com/Keoiki_',			'FFFFFF'],
+			['Smokey',				'smokey',			'Spritemap Texture Support',							'https://twitter.com/Smokey_5_',		'0033CC'],
+			[''],
 			[''],
 			["Funkin' Crew"],
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],

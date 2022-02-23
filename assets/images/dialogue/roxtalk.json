@@ -1,0 +1,102 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "roxtalk",
+	"animations": [
+		{
+			"idle_offsets": [
+				-13,
+				-9
+			],
+			"loop_offsets": [
+				-21,
+				15
+			],
+			"anim": "talk",
+			"idle_name": "no talk normal",
+			"loop_name": "talk normal"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "no talk excited",
+			"loop_name": "talk excited"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				1
+			],
+			"idle_name": "no talk scared",
+			"loop_name": "talk scared"
+		},
+		{
+			"idle_offsets": [
+				3,
+				-4
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-3,
+				1
+			],
+			"idle_name": "talk rude",
+			"loop_name": "talk rude"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad?",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk get a load of this guy",
+			"idle_name": "no talk get a load of this guy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "rude",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk rude",
+			"loop_name": "talk rude"
+		},
+		{
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "dababy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dababy talk",
+			"idle_name": "dababy talk"
+		}
+	]
+}

@@ -44,7 +44,7 @@ class DiscordClient
 			details: "In the Menus",
 			state: null,
 			largeImageKey: 'respectfunkin',
-			largeImageText: "Respect Funkin"
+			largeImageText: "Respect Funkin'"
 		});
 	}
 
@@ -80,7 +80,7 @@ class DiscordClient
 			details: details,
 			state: state,
 			largeImageKey: 'respectfunkin',
-			largeImageText: "Respect Funkin Version: " + MainMenuState.respectVersion,
+			largeImageText: "Respect Funkin' Version: " + MainMenuState.respectVersion,
 			smallImageKey : smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp : Std.int(startTimestamp / 1000),

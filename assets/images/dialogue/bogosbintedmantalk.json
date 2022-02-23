@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				1
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "bogos binted talk normal",
+			"idle_name": "bogos binted no talk normal"
+		},
+		{
+			"loop_offsets": [
+				5,
+				1
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "bogos binted talk excited",
+			"idle_name": "bogos binted no talk excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				1,
+				0
+			],
+			"loop_name": "bogos binted talk scared",
+			"idle_name": "bogos binted no talk scared"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "bogos binted talk bruh",
+			"idle_name": "bogos binted no talk bruh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "oh shit",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bogos binted talk oh shit",
+			"idle_name": "bogos binted talk oh shit"
+		}
+	],
+	"image": "bogos binted man talk"
+}

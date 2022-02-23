@@ -1,0 +1,48 @@
+{
+	"storyName": "bad days",
+	"hideFreeplay": true,
+	"weekBackground": "legend",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bad-day",
+			"legend",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"awakening",
+			"legend",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"strike",
+			"legend",
+			[
+				146,
+				0,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

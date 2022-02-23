@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="roxtalk.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="no talk excited0000" x="0" y="0" width="388" height="506"/>
+	<SubTexture name="no talk excited0001" x="0" y="506" width="388" height="506"/>
+	<SubTexture name="no talk get a load of this guy0000" x="388" y="0" width="388" height="506"/>
+	<SubTexture name="no talk get a load of this guy0001" x="388" y="506" width="388" height="506"/>
+	<SubTexture name="no talk normal0000" x="776" y="0" width="388" height="506"/>
+	<SubTexture name="no talk normal0001" x="1164" y="0" width="388" height="506"/>
+	<SubTexture name="no talk rude 0000" x="0" y="1012" width="388" height="506"/>
+	<SubTexture name="no talk rude 0001" x="0" y="1012" width="388" height="506"/>
+	<SubTexture name="no talk scared 0000" x="388" y="1012" width="389" height="507"/>
+	<SubTexture name="no talk scared 0001" x="388" y="1012" width="389" height="507"/>
+	<SubTexture name="talk excited0000" x="1552" y="0" width="388" height="506"/>
+	<SubTexture name="talk excited0001" x="0" y="506" width="388" height="506"/>
+	<SubTexture name="talk get a load of this guy0000" x="388" y="506" width="388" height="506"/>
+	<SubTexture name="talk normal0000" x="776" y="506" width="388" height="506"/>
+	<SubTexture name="talk normal0001" x="1164" y="506" width="388" height="506"/>
+	<SubTexture name="talk rude0000" x="1552" y="506" width="388" height="506"/>
+	<SubTexture name="talk rude0001" x="0" y="1012" width="388" height="506"/>
+	<SubTexture name="talk scared0000" x="388" y="1012" width="389" height="507"/>
+	<SubTexture name="talk scared0001" x="777" y="1012" width="389" height="507"/>
+</TextureAtlas>

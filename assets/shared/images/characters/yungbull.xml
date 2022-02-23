@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yungbull.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yung down0000" x="0" y="0" width="611" height="659" frameX="0" frameY="-8" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0001" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0002" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0003" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0004" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0005" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0006" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0007" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0008" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung down0009" x="611" y="0" width="605" height="686" frameX="-6" frameY="0" frameWidth="611" frameHeight="686"/>
+	<SubTexture name="yung idle dance0000" x="1216" y="0" width="552" height="489" frameX="0" frameY="-1" frameWidth="552" frameHeight="510"/>
+	<SubTexture name="yung idle dance0001" x="1768" y="0" width="552" height="493" frameX="0" frameY="-4" frameWidth="552" frameHeight="510"/>
+	<SubTexture name="yung idle dance0002" x="2320" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0003" x="2872" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0004" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0005" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0006" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0007" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0008" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0009" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0010" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0011" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0012" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0013" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung idle dance0014" x="3424" y="0" width="552" height="510"/>
+	<SubTexture name="yung left0000" x="0" y="686" width="831" height="619" frameX="0" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0001" x="831" y="686" width="831" height="619" frameX="0" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0002" x="1662" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0003" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0004" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0005" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0006" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0007" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0008" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0009" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0010" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0011" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0012" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0013" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung left0014" x="2242" y="686" width="580" height="615" frameX="-266" frameY="0" frameWidth="846" frameHeight="619"/>
+	<SubTexture name="yung right0000" x="2822" y="686" width="783" height="718" frameX="-38" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0001" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0002" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0003" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0004" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0005" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0006" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0007" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0008" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung right0009" x="0" y="1404" width="784" height="718" frameX="0" frameY="0" frameWidth="821" frameHeight="718"/>
+	<SubTexture name="yung shooting0000" x="784" y="1404" width="550" height="561"/>
+	<SubTexture name="yung shooting0001" x="1334" y="1404" width="529" height="561" frameX="-21" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0002" x="784" y="1404" width="550" height="561"/>
+	<SubTexture name="yung shooting0003" x="1863" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0004" x="2392" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0005" x="2921" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0006" x="2921" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0007" x="3450" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0008" x="3450" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung shooting0009" x="3450" y="1404" width="529" height="561" frameX="-10" frameY="0" frameWidth="550" frameHeight="561"/>
+	<SubTexture name="yung up0000" x="0" y="2122" width="572" height="723" frameX="0" frameY="-4" frameWidth="572" frameHeight="727"/>
+	<SubTexture name="yung up0001" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0002" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0003" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0004" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0005" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0006" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0007" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0008" x="572" y="2122" width="572" height="727"/>
+	<SubTexture name="yung up0009" x="572" y="2122" width="572" height="727"/>
+</TextureAtlas>

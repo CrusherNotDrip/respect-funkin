@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				310,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				130,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				281,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				180,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				244,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				0
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "throw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monster jackEX",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "monsterjack",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

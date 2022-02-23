@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so meeny is one of my friends"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "really who is he"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh just someone i talk to sometimes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YO MEENY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "m",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YO WHATS UP IDOIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOTHING MUCH YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bogosbintedmantalk",
+			"boxState": "normal",
+			"expression": "oh shit",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "m",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GOOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heheh lol so you wanna rap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "m",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea bring it on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you gonna make us float to da sky?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "m",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roxtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LETS START IT UP"
+		}
+	]
+}
