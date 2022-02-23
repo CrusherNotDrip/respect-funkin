@@ -1,13 +1,6 @@
 # Respect Funkin
 Naw Bro Respect the funk [Download Here](https://gamebanana.com/mods/336932)
 
-## Installation:
-You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
-
-Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
-
-To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit ` on a Command prompt/PowerShell
-
 ## Credits:
 * [RespectRox](https://gamebanana.com/members/1816465) - Creator of Respect Funkin | Artist, Musics, Chartings
 * SleepyHead - The creator of the Alien Man
