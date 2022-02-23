@@ -1,5 +1,5 @@
 name: Bug report
-description: Report bugs with the engine here
+description: Report bugs with the game here
 labels: [bug]
 body:
   - type: textarea
@@ -20,9 +20,9 @@ body:
   - type: dropdown
     id: modding
     attributes:
-      label: "Are you modding a build from source or with Lua?"
+      label: "Are you playing a build from source or with a exe?"
       options:
-        - Lua
+        - Exe
         - Source
     validations:
       required: true
@@ -30,7 +30,7 @@ body:
   - type: dropdown
     id: btarget
     attributes:
-      label: "What is your build target?"
+      label: "What is you playing on?"
       options:
         - "Windows"
         - "Linux"
@@ -44,7 +44,7 @@ body:
   - type: input
     id: buildsummary
     attributes:
-      label: "Did you edit anything in this build? If so, mention or summarize your changes."
+      label: "Did you edit anything in this mod? If so, mention or summarize your changes."
       placeholder: "Yes, I edited ClientPrefs.hx and tried to add a new setting"
     validations:
       required: true

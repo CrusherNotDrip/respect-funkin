@@ -1,20 +1,28 @@
-name: Help me!
-description: If you need help using the engine.
-labels: [help wanted]
+name: Help Me!
+description: If you need help with the game here
+labels: [bug]
 body:
   - type: textarea
     id: description
     attributes:
-      label: "Describe your problem here."
+      label: "Describe your bug here."
     validations:
       required: true
+
+  - type: textarea
+    id: terminal
+    attributes:
+      label: "Command Prompt/Terminal logs (if existing)"
+      render: bash
+    validations:
+      required: false
 
   - type: dropdown
     id: modding
     attributes:
-      label: "Are you modding a build from source or with Lua?"
+      label: "Are you playing a build from source or with a exe?"
       options:
-        - Lua
+        - Exe
         - Source
     validations:
       required: true
@@ -22,13 +30,12 @@ body:
   - type: dropdown
     id: btarget
     attributes:
-      label: "What is your build target?"
+      label: "What is you playing on?"
       options:
-        - "Windows x64"
-        - "Windows x86/x32"
+        - "Windows"
         - "Linux"
         - "Mac"
-        - "HTML5/Browser"
+        - "HTML5"
         - "Flash/Air-based target"
         - "Neko, HashLink, or other build system"
     validations:
@@ -37,7 +44,7 @@ body:
   - type: input
     id: buildsummary
     attributes:
-      label: "Did you edit anything in this build? If so, mention or summarize your changes."
+      label: "Did you edit anything in this mod? If so, mention or summarize your changes."
       placeholder: "Yes, I edited ClientPrefs.hx and tried to add a new setting"
     validations:
-      required: false
+      required: true
